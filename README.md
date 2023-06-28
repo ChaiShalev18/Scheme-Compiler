@@ -1,6 +1,6 @@
 # Scheme Compiler
 
-Welcome to the Scheme Compiler! This project is a compiler for the Scheme programming language, implemented in OCaml. This compiler translates Scheme code into machine code that can be executed on a target platform. It aims to provide efficient and optimized code generation while adhering to the principles of compilation.
+Welcome to the Scheme Compiler! This project is a compiler for the Scheme programming language, implemented in OCaml. This compiler compile Scheme code into machine code that can be executed on a target platform. It aims to provide efficient and optimized code generation while adhering to the principles of compilation.
 
 ## Table of Contents
 
@@ -24,4 +24,8 @@ The Scheme Compiler is built to transform high-level Scheme code into low-level 
 
 ## Acknowledgements
 
-We would like to acknowledge that this project was developed collaboratively by both of us, @ChaiShalev18 and Shoham Cohen. Our partnership and joint efforts were instrumental in the development and completion of this compiler. We would also like to express our gratitude to Dr. Mayer Goldberg, our course teacher, for his invaluable guidance and support throughout the project.
+We would like to acknowledge that this project was developed collaboratively by both of us, @ChaiShalev18 and Shoham Cohen. Our partnership and joint efforts were instrumental in the development and completion of this compiler. 
+
+We would also like to express our sincere gratitude to Dr. Mayer Goldberg, our course teacher, for his invaluable guidance and support throughout the development of this project. His expertise and insights have been instrumental in shaping this compiler and enhancing our understanding of compilation principles
+
+We hope you find the Scheme Compiler useful! If you have any questions or need assistance, please don't hesitate to reach out. Happy compiling!
